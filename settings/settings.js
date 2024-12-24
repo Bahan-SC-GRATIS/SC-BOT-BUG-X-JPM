@@ -2,7 +2,7 @@ global.nomorbot = '62xxx'
 global.namabot = 'AanzCuyxzz-V2'
 global.namaowner = 'AanzCuxyzz'
 global.urlfoto = 'https://e.top4top.io/p_3229zf3gp0.jpg'
-global.link = 'Link Channel Yaw'
+global.link = 'https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D'
 //Cpanel V1
 global.domain = ''
 global.apikey = ''
@@ -22,8 +22,8 @@ global.Merchant = 'Info Ini Is Id Merchant Ya'
 global.idOrkut = 'Ini Isi Qris Merchantnya'
 global.ApiOrkut = '895965317326849802014841OKCT3A85BD1682B851EFE592AB050017DD82'
 //Settings Payment
-global.dana = '628988106426'
-global.gopay = '62895380719008'
+global.dana = '6285813708397'
+global.gopay = '6285813708397'
 global.ovo = 'Lom Ada Hhew'
 //Setting Gif
 module.exports = {
