@@ -1,3 +1,12 @@
+/*
+
+
+SC BUG STORE AUTO BUY OTOMATIS ORDER KUOTA BUG? CEK AJA YA DIDALEM KEKNYA WORK DEH . TADI PENGEN KU REVIEW SC NYA TAPI BLM ADA PANEL 🗿😹.
+
+SUBSCRIBE YT : FALLZX-INFINITY 
+MY SALURAN : https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D
+SUMBER SCRIPT : https://whatsapp.com/channel/0029VajU7yJJZg47Mgw99L0W
+**/
 require("./settings/settings")
 const { WA_DEFAULT_EPHEMERAL, getAggregateVotesInPollMessage, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, downloadContentFromMessage, areJidsSameUser, getContentType, useMultiFileAuthState, makeWASocket, fetchLatestBaileysVersion, makeCacheableSignalKeyStore, makeWaSocket } = require("@whiskeysockets/baileys")
 const fs = require('fs')
